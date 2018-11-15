@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyButtonEdit.cs](./CS/WindowsApplication1/CustomEditor/MyButtonEdit.cs) (VB: [MyButtonEditViewInfo.vb](./VB/WindowsApplication1/CustomEditor/MyButtonEditViewInfo.vb))
+* [MyButtonEditViewInfo.cs](./CS/WindowsApplication1/CustomEditor/MyButtonEditViewInfo.cs) (VB: [MyButtonEditViewInfo.vb](./VB/WindowsApplication1/CustomEditor/MyButtonEditViewInfo.vb))
+* [MyPainter.cs](./CS/WindowsApplication1/CustomEditor/MyPainter.cs) (VB: [MyPainter.vb](./VB/WindowsApplication1/CustomEditor/MyPainter.vb))
+* [RepositoryItemMyButtonEdit.cs](./CS/WindowsApplication1/CustomEditor/RepositoryItemMyButtonEdit.cs) (VB: [RepositoryItemMyButtonEdit.vb](./VB/WindowsApplication1/CustomEditor/RepositoryItemMyButtonEdit.vb))
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
+* [Program.cs](./CS/WindowsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsApplication1/Program.vb))
+<!-- default file list end -->
 # How to create a custom ButtonEdit that allows displaying readonly RTF/HTML content
 
 
