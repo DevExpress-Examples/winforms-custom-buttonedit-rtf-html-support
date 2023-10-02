@@ -5,7 +5,7 @@
 
 # WinForms Data Editors - Create a custom ButtonEdit that can display readonly RTF/HTML content
 
-This example creates a custom button editor that can display rich content. The custom editor supports auto-hight and can be used as a cell editor in container controls such as WinForms Data Grid and TreeList.
+This example creates a custom button editor that can display rich content. The custom editor supports auto-height and can be used as a cell editor in container controls such as WinForms Data Grid and TreeList.
 
 ![WinForms Data Editors - Create a custom ButtonEdit that can display readonly RTF/HTML content](https://raw.githubusercontent.com/DevExpress-Examples/how-to-create-a-custom-buttonedit-that-allows-displaying-readonly-rtf-html-content-e2880/9.3.2%2B/media/winforms-custom-button-edit.png)
 
